@@ -6,7 +6,7 @@ This repository presents a deep learning project called **CleanTech: Transformin
 
 Watch the video below to see how the application works:
 
-🔗 **[Watch Demo Video](demo.mp4)**  
+🔗 **[Watch Demo Video](videoDemo.webm)**  
 *(If hosted on GitHub or external site, replace this with YouTube or Drive link.)*
 
 ## 🧠 Overview
